@@ -1,3 +1,5 @@
+This repository is forked from [capriza/samling](https://github.com/capriza/samling) and hosted again for stability.
+
 <div align="center"><img src="https://capriza.github.io/images/logos/logos-scorpion.svg" height="128" /></div>
 
 Samling
