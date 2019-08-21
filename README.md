@@ -1,4 +1,4 @@
-This repository is forked from [capriza/samling](https://github.com/capriza/samling) and hosted again for stability.
+This repository is forked from [capriza/samling](https://github.com/capriza/samling) and hosted again for stability. We recommend contributing directly to the original repository with fixes and features.
 
 <div align="center"><img src="https://capriza.github.io/images/logos/logos-scorpion.svg" height="128" /></div>
 
@@ -9,7 +9,7 @@ Serverless (as in "client side only") SAML IDP for testing SAML integrations.
 
 ## See it Live
 
-Visit https://capriza.github.io/samling/samling.html to see it in action.
+Visit https://repaygithub.github.io/samling/samling.html to see it in action.
 
 ## What is SAMLING
 
